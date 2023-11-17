@@ -7,3 +7,5 @@ I have created my first project bank management system in python.  In this proje
 4. Withdraw amount
 5. View balance
 6. Transfer amount
+## How to use this Project
+1. Create account - 
