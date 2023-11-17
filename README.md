@@ -14,3 +14,6 @@ I have created my first project bank management system in python.  In this proje
 4. withdraw amount - enter the amount which you want to withdraw from your bank account.
 5. View balance - If you want to check balance of your account then this method is useful.
 6. Transfer amount - If you want to transform amount from one user to another then this method is useful for you. and if you want to transfer it by yourself also then also just enter the amount transfer it on your account.
+## Result
+* The project successfully defines two classes, "User" and "Bank", demonstrating the principles of object-oriented programming.
+* Inheritance is employed, with the "Bank" class inheriting from the "User" class, illustrating the concept of code reusability.
